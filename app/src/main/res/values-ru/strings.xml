@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Level3</string>
+    <string name="tv_user_name">Синьер Помидор</string>
+    <string name="tv_settings">Настройки</string>
+    <string name="tv_career">Карьера</string>
+    <string name="tv_address">Домашний адресс</string>
+    <string name="mb_edit_profile">Редактировать профиль</string>
+    <string name="mb_view_contacts">ПРОСМОТРЕТЬ КОНТАКТЫ</string>
+    <string name="tv_password">Пароль</string>
+    <string name="tv_remember_me">Запомнить меня</string>
+    <string name="or">или</string>
+    <string name="register">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="terms_and_conditions">Нажимая «Зарегистрироваться», вы соглашаетесь
+                                                    с Условиями использования</string>
+    <string name="already_have_an_account">Уже есть учетная запись?</string>
+    <string name="sign_in">Войти</string>
+    <string name="fill_out_the_profile">Заполните данные и проходите в приложение!</string>
+    <string name="acquaintance">Давайте знакомиться</string>
+    <string name="bt_google">Google</string>
+    <string name="tv_email">Эл. почта</string>
+    <string name="pass_error_short">Пожалуйста введите минимум 8 символов!</string>
+    <string name="pass_error_weak">Слабый пароль. Добавьтe хотя бы 1 спецсимвол!</string>
+    <string name="pass_error_empty">Пожалуйста введите пароль!</string>
+    <string name="email_error_format">Неверный формат электронной почты!</string>
+    <string name="pass_helperText_stongPass">Надежный пароль</string>
+    <string name="terms_and_conditions_landscape">Нажимая «Зарегистрироваться», вы соглашаетесь                                                     с Условиями использования</string>
+    <string name="hint_e_mail">Эл. почта</string>
+    <string name="hint_password">Пароль</string>
+    <string name="tv_contacts">Контакты</string>
+    <string name="title_activity_add_contact">Добавить контакт</string>
+    <string name="tv_add_contact">Добавить контакт</string>
+    <string name="save">СОХРАНИТЬ</string>
+    <string name="date_of_birth">Дата рождения</string>
+    <string name="address">Адрес</string>
+    <string name="phone">Телефон</string>
+    <string name="email">Эл. почта</string>
+    <string name="career">Карьера</string>
+    <string name="name">Имя</string>
+    <string name="undo">Отмена</string>
+    <string name="has_been_removed">" был(а) удален(а)"</string>
+</resources>

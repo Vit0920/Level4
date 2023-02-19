@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Level3" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#a56b75</item>
+        <item name="colorPrimaryVariant">#262c35</item>
+        <item name="colorOnPrimary">#dcdcdc</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#797b88</item>
+        <item name="colorSecondaryVariant">#BDBDBD</item>
+        <item name="colorOnSecondary">#2d323e</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+
+    </style>
+
+    <style name="ThemeOverlay.Level3.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_900</item>
+        <item name="fullscreenTextColor">@color/light_blue_A400</item>
+    </style>
+</resources>
